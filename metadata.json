@@ -1,0 +1,6 @@
+{
+  "name": "Dành Cho Em",
+  "description": "Một ứng dụng lưu giữ kỷ niệm tình yêu lãng mạn dành riêng cho một nửa của bạn với thư tình, album ảnh 3D, mét tình yêu và nhạc nền tự chọn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
